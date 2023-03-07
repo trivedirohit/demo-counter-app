@@ -10,7 +10,7 @@ pipeline{
                 
                 script{
                     
-                    git branch: 'main', url: 'https://github.com/trivedirohit/mrdevops_javaapplication.git'
+                    git branch: 'main', url: 'https://github.com/trivedirohit/demo-counter-app.git'
                 }
             }
         }
